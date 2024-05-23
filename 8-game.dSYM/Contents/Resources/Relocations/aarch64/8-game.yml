@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/samucerezo/dev/cpp/8-game'
+relocations:
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: __Z11ObtainAnglev, symObjAddr: 0x0, symBinAddr: 0x1000036AC, symSize: 0x50 }
+  - { offsetInCU: 0x50E6, offset: 0x50E6, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x21988, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5106, offset: 0x5106, size: 0x8, addend: 0x0, symName: _EnemyDistance, symObjAddr: 0x21990, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x511C, offset: 0x511C, size: 0x8, addend: 0x0, symName: _angleRad, symObjAddr: 0x21998, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0x513E, offset: 0x513E, size: 0x8, addend: 0x0, symName: _cannonballsFlag, symObjAddr: 0x219A0, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0x53FE, offset: 0x53FE, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_8_game.cpp, symObjAddr: 0x4F4, symBinAddr: 0x100003BA0, symSize: 0x1C }
+  - { offsetInCU: 0x5428, offset: 0x5428, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0ii, symObjAddr: 0x494, symBinAddr: 0x100003B40, symSize: 0x60 }
+  - { offsetInCU: 0x5430, offset: 0x5430, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_8_game.cpp, symObjAddr: 0x4F4, symBinAddr: 0x100003BA0, symSize: 0x1C }
+  - { offsetInCU: 0x544B, offset: 0x544B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x390, symBinAddr: 0x100003A3C, symSize: 0x104 }
+  - { offsetInCU: 0x5453, offset: 0x5453, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0ii, symObjAddr: 0x494, symBinAddr: 0x100003B40, symSize: 0x60 }
+  - { offsetInCU: 0x54D1, offset: 0x54D1, size: 0x8, addend: 0x0, symName: __Z20generateRandDistancev, symObjAddr: 0x2FC, symBinAddr: 0x1000039A8, symSize: 0x94 }
+  - { offsetInCU: 0x54D9, offset: 0x54D9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x390, symBinAddr: 0x100003A3C, symSize: 0x104 }
+  - { offsetInCU: 0x550D, offset: 0x550D, size: 0x8, addend: 0x0, symName: __Z12shootingLoopv, symObjAddr: 0x84, symBinAddr: 0x100003730, symSize: 0x278 }
+  - { offsetInCU: 0x5515, offset: 0x5515, size: 0x8, addend: 0x0, symName: __Z20generateRandDistancev, symObjAddr: 0x2FC, symBinAddr: 0x1000039A8, symSize: 0x94 }
+  - { offsetInCU: 0x55B4, offset: 0x55B4, size: 0x8, addend: 0x0, symName: __Z12instructionsv, symObjAddr: 0x50, symBinAddr: 0x1000036FC, symSize: 0x34 }
+  - { offsetInCU: 0x55BC, offset: 0x55BC, size: 0x8, addend: 0x0, symName: __Z12shootingLoopv, symObjAddr: 0x84, symBinAddr: 0x100003730, symSize: 0x278 }
+  - { offsetInCU: 0x55D7, offset: 0x55D7, size: 0x8, addend: 0x0, symName: __Z11ObtainAnglev, symObjAddr: 0x0, symBinAddr: 0x1000036AC, symSize: 0x50 }
+  - { offsetInCU: 0x55DF, offset: 0x55DF, size: 0x8, addend: 0x0, symName: __Z12instructionsv, symObjAddr: 0x50, symBinAddr: 0x1000036FC, symSize: 0x34 }
+...
